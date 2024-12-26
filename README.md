@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ajithvraj/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/ajithvraj/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ajithvraj/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ajithvraj/LeetCode/tree/master/0268-missing-number) |
 | [2481-strictly-palindromic-number](https://github.com/ajithvraj/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ajithvraj/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ajithvraj/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ajithvraj/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
