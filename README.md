@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ajithvraj/LeetCode/tree/master/0268-missing-number) |
 | [1086-divisor-game](https://github.com/ajithvraj/LeetCode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/ajithvraj/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2556-convert-the-temperature](https://github.com/ajithvraj/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
