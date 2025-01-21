@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajithvraj/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2481-strictly-palindromic-number](https://github.com/ajithvraj/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/ajithvraj/LeetCode/tree/master/2556-convert-the-temperature) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ajithvraj/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ajithvraj/LeetCode/tree/master/0242-valid-anagram) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ajithvraj/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Dynamic Programming
 |  |
 | ------- |
