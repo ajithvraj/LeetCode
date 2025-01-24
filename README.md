@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/ajithvraj/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/ajithvraj/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ajithvraj/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ajithvraj/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ajithvraj/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ajithvraj/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ajithvraj/LeetCode/tree/master/0268-missing-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ajithvraj/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
