@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ajithvraj/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ajithvraj/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajithvraj/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ajithvraj/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ajithvraj/LeetCode/tree/master/0242-valid-anagram) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ajithvraj/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0742-to-lower-case](https://github.com/ajithvraj/LeetCode/tree/master/0742-to-lower-case) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ajithvraj/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ajithvraj/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Dynamic Programming
 |  |
