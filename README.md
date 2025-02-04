@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ajithvraj/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ajithvraj/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajithvraj/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ajithvraj/LeetCode/tree/master/0389-find-the-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ajithvraj/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ajithvraj/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ajithvraj/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ajithvraj/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ajithvraj/LeetCode/tree/master/0389-find-the-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ajithvraj/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ajithvraj/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ajithvraj/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajithvraj/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ajithvraj/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ajithvraj/LeetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/ajithvraj/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Recursion
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ajithvraj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ajithvraj/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/ajithvraj/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ajithvraj/LeetCode/tree/master/0412-fizz-buzz) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ajithvraj/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0742-to-lower-case](https://github.com/ajithvraj/LeetCode/tree/master/0742-to-lower-case) |
