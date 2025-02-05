@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ajithvraj/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ajithvraj/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ajithvraj/LeetCode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/ajithvraj/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ajithvraj/LeetCode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajithvraj/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2481-strictly-palindromic-number](https://github.com/ajithvraj/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ajithvraj/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ajithvraj/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ajithvraj/LeetCode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/ajithvraj/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/ajithvraj/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ajithvraj/LeetCode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ajithvraj/LeetCode/tree/master/0412-fizz-buzz) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ajithvraj/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
