@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ajithvraj/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ajithvraj/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajithvraj/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ajithvraj/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ajithvraj/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ajithvraj/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ajithvraj/LeetCode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/ajithvraj/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ajithvraj/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/ajithvraj/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ajithvraj/LeetCode/tree/master/0412-fizz-buzz) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ajithvraj/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0742-to-lower-case](https://github.com/ajithvraj/LeetCode/tree/master/0742-to-lower-case) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ajithvraj/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ajithvraj/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ajithvraj/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Dynamic Programming
