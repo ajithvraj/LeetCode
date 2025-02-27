@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ajithvraj/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ajithvraj/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ajithvraj/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ajithvraj/LeetCode/tree/master/0231-power-of-two) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ajithvraj/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/ajithvraj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ajithvraj/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ajithvraj/LeetCode/tree/master/0344-reverse-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ajithvraj/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/ajithvraj/LeetCode/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
